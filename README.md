@@ -25,6 +25,9 @@
 
 - python 'Sms Bom.py'
 
+##  USERNAME: Rocky
+##  PASSWORD: Rocky
+
 
 #
 [![Screenshot-2023-03-26-12-09-25-74-84d3000e3f4017145260f7618db1d683.jpg](https://i.postimg.cc/VLKryh2f/Screenshot-2023-03-26-12-09-25-74-84d3000e3f4017145260f7618db1d683.jpg)](https://postimg.cc/56FNLsxT)
